@@ -4,7 +4,7 @@
 | 01 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 11 | 21 | 0 |
 | 02 | Tree | 트리 | [바로가기](./tree) | 15 | 44 | 0 |
 | 03 | Math | 수학 | [바로가기](./math) | 18 | 29 | 0 |
-| 04 | Greedy | 탐욕법 | [바로가기](./greedy) | 27 | 62 | ![status][Doing] |
+| 04 | Greedy | 탐욕법 | [바로가기](./greedy) | 27 | 62 | 0 |
 | 05 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](./dynamic_programming_1) | 27 | 80 | 0 |
 | 06 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](./dynamic_programming_2) | 28 | 81 | 0 |
 | 07 | Two Pointer | 투 포인터 | [바로가기](./two_pointer) | 13 | 36 | 0 |
@@ -16,7 +16,7 @@
 | 13 | Backtracking | 백트래킹 | [바로가기](./backtracking) | 28 | 75 | 0|
 | 14 | Divide and conquer | 분할정복 | [바로가기](./divide_and_conquer) | 08 | 18 | 0 |
 | 15 | Prefix Sum | 누적 합 | [바로가기](./prefix_sum) | 11 | 32 | 0 |
-| 16 | String | 문자열 | [바로가기](./string) | 19 | 63 | ![status][Doing] |
+| 16 | String | 문자열 | [바로가기](./string) | 19 | 63 | 0 |
 | 17 | Shortest Path | 최단거리 | [바로가기](./shortest_path) | 18 | 53 | 0 |
 | 18 | Topological Sorting | 위상정렬 | [바로가기](./topological_sorting) | 05 | 14 | 0 |
 | 19 | Disjoint Set | 분리 집합 | [바로가기](./disjoint_set) | 06 | 20 | 0 |
